@@ -1,4 +1,4 @@
-const db = [
+const tasks = [
     { 
         id: 1, 
         name: 'Shopping' 
@@ -10,4 +10,4 @@ const db = [
 
 ];
 
-module.exports = db;
+module.exports = tasks;
